@@ -1,0 +1,10 @@
+
+.container {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nav-wrapper {
+    display: flex;
+     justify-content: space-between;
+}
+
